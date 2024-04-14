@@ -18,3 +18,7 @@ A short video that shows how to work with the program is provided on this websit
 Screenshot of this program
 <img src="images/H1.png"
 </p>
+<p>
+Screenshot of this program
+<img src="images/H2.png"
+</p>
